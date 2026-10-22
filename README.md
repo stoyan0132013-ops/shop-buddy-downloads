@@ -70,3 +70,4 @@ This repository distributes an Android APK directly through GitHub
 Releases. **SHOP BUDDY is not listed on Google Play through this
 repository.** Installation is subject to Android's security settings and
 any applicable platform requirements.
+**Privacy Policy:** [Read our Privacy Policy](PRIVACY_POLICY.md)
